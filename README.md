@@ -2,7 +2,7 @@
 Iq Automizer
 
 
-Work in progres 
-Requirments 
+
+Need 
 - Python
 - Pip 
